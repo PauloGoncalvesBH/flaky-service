@@ -26,7 +26,7 @@
   "homepage": "https://github.com/GoogleCloudPlatform/flaky-service#readme",
   "dependencies": {
     "@google-cloud/connect-firestore": "^1.0.6",
-    "@google-cloud/firestore": "^3.8.4",
+    "@google-cloud/firestore": "^7.6.0",
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
     "express": "^4.17.1",
@@ -42,7 +42,7 @@
     "firebase-tools": "^8.9.0",
     "mocha": "^7.2.0",
     "nock": "^13.0.2",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^3.3.2",
     "semistandard": "^14.2.0",
     "sinon": "^9.0.2",
     "tap-spec": "^5.0.0"
