@@ -10,9 +10,9 @@
   "author": "Google LLC",
   "license": "Apache-2.0",
   "dependencies": {
-    "@actions/core": "^1.2.4",
+    "@actions/core": "^1.9.1",
     "@actions/github": "^3.0.0",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^2.6.7",
     "tap-parser": "^10.0.1"
   },
   "devDependencies": {
